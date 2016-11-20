@@ -1,2 +1,2 @@
 # Selenium
-Selenium authomanic test python
+Selenium automatic test python
